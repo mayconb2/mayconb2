@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Maycon, I am 28 yers old and a Software Developer passionate.
+My name is Maycon, I am 28 years old and :heart: developing software .
 
 I like to code with NodeJs and Golang. But, above all, I belive that programing languages are just tools. Solve interesting problems is my real motivation, independent which language.
 
