@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-My name is Maycon, I am 28 years old and :heart: developing software .
+My name is Maycon, I am 29 years old and :heart: develop software.
 
-I like to code with NodeJs and Golang. But, above all, I belive that programing languages are just tools. Solve interesting problems is my real motivation, independent which language.
+I spent my last months studing Java, Spring, Docker and best praticles in software development. Besides my official job, I'm working like a freelancer in a Software House called Lab of Codes. The project uses TypeScript, NodeJs, Angular, Ionic and FireBase.
 
 A little about me:
 
-- 🔭 I’m currently working with JAVA, (Java EE, JBoss, Struts I and some times Spring) on Softplan - Florianópolis;
-- 🌱 I’m currently learning and studing NodeJs, Golang, React, Angular and MongoDB;
+- 🔭 I’m currently working with Java on Everis;
+- 🌱 I love other people that are iniciating in the software develop's world. If you have any doubt or need some help about anything, call me that will be a pleasure support you;
 - 📫 You can fin dme and send me a message on my [Linkedin](https://www.linkedin.com/in/maycon-de-souza-485114164/);  
 
 I hope you enjoy my Github profile :)
-
