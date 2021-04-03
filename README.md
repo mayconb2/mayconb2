@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Maycon, I am 29 years old and :heart: develop software.
+My name is Maycon, I am 29 years old and :heart: software development.
 
 I spent my last months studing Java, Spring, Docker and best praticles in software development. Besides my official job, I'm working like a freelancer in a Software House called Lab of Codes. The project uses TypeScript, NodeJs, Angular, Ionic and FireBase.
 
