@@ -6,7 +6,7 @@ I spent my last months studing Java, Spring, Docker and best praticles in softwa
 
 A little about me:
 
-- 🔭 I’m currently working with Java on Everis;
+- 🔭 I’m currently working with Java on PicPay;
 - 🌱 I love other people that are iniciating in the software develop's world. If you have any doubt or need some help about anything, call me that will be a pleasure support you;
 - 📫 You can find me and send me a message on my [Linkedin](https://www.linkedin.com/in/maycon-de-souza-485114164/);  
 
