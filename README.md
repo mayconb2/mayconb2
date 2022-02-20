@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-My name is Maycon, I am 29 years old and :heart: software development.
+My name is Maycon, I am 29 years old and :heart: software development. I'm currently living in the city of Porto, Portugal.
 
 I spent my last months studing Java, Spring, Docker and best praticles in software development. Besides my official job, I'm working like a freelancer in a Software House called Lab of Codes. The project uses TypeScript, NodeJs, Angular, Ionic and FireBase.
 
 A little about me:
 
-- 🔭 I’m currently working with Java on PicPay;
+- 🔭 I’m currently working with Java on Natixis by Altran;
 - 🌱 I love help other people that are starting in the software develop's world. If you have any doubt or need some help about anything, call me that will be a pleasure support you;
 - 📫 You can find me and send me a message on my [Linkedin](https://www.linkedin.com/in/maycon-de-souza-485114164/);  
 
